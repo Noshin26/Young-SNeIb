@@ -15,3 +15,12 @@ method with which the date of maximum was determined
 The subdirectory called "templates_yesmin" includes the .lnw files for the SNID templates.
 
 For comparison: there were 235 spectra (with 91 premaximum spectra) of 22 SNe Ib in Blondin's release (templates-2.0) + MGS. In this release, there are at total 91 photospheric spectral templates of 8 SNe Ib with 39 premaximum spectra. Thus, this data set significantly enhances the number of premaximum spectral templates of SNe Ib. 
+
+# References
+Blondin, S. & Tonry, J. L. 2007, ApJ, 666, 1024
+Aryan, A., Pandey, S. B., Zheng, W., et al. 2021, MNRAS, 505, 2530
+Schweyer, T., Sollerman, J., Jerkstrand, A., et al. 2023, arXiv e-prints, arXiv:2303.14146
+Modjaz, M., Blondin, S., Kirshner, R. P., et al. 2014, The Astronomical Journal, 147, 99
+Liu, Y.-Q., Modjaz, M., Bianco, F. B., & Graur, O. 2016, ApJ, 827, 90
+Liu, Y.-Q., Modjaz, M., & Bianco, F. B. 2017, ApJ, 845, 85
+Williamson, M., Modjaz, M., & Bianco, F. B. 2019, ApJ, 880, L22
