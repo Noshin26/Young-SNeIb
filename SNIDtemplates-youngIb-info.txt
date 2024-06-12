@@ -15,5 +15,6 @@
 
 
 ### Note
-The following change type: SN 2022nyo IIb -> Ib, SN 2019odp Ic-bl -> Ib; See Yesmin et al. 2024 for details. 
+The following change type: SN 2022nyo IIb -> Ib, SN 2019odp Ic-bl -> Ib; 
+Additionally, SN 2021ukt is a peculiar supernova in the sample. See Yesmin et al. 2024 for details. 
 We include additional templates for SN 2019odp (from Schweyer et al. 2023) and SN 2016bau (from Aryan et al. 2021) along with our data set. 
